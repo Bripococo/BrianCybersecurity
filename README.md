@@ -64,8 +64,9 @@ Soy un profesional de ciberseguridad apasionado por la seguridad ofensiva y defe
 ## 🧰 Tecnologías y Herramientas
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,azurecode,docker,git
+  <img src="https://skillicons.dev/icons?i=python,powerslinux,azure,docker,git,github,vscode
 </p>
+``
 
 ---
 
