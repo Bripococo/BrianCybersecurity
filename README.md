@@ -10,9 +10,16 @@ Soy un profesional de ciberseguridad apasionado por la seguridad ofensiva y defe
 
 ## 🌐 Conecta conmigo
 
-[<img align="left" alt="brianpoolcortescortes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/brianpoolcortescortes
+<p align="left">
+<a href="https://linkedin.com/in/brianpoolcortescortes" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Brian%20Pool%20Cort%C3%A9s-0077B5?style=for-the-badgeedin&logoColor=white
+</a>
+ 
+<a href="https://www.youtube.com/@mijjacmjj" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-Cybersecurity%FF0000?style=for-the-badge&logo=youtube&logoColor=white
+</a>
+</p>
+  
 ---
 
 ## 🚀 Áreas de Interés
