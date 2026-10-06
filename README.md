@@ -72,9 +72,9 @@ Soy un profesional de ciberseguridad apasionado por la seguridad ofensiva y defe
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiARIO&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.sername=Bripococo&show_icons=true&theme=tokyonight
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USact&theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-Bripococo&layout=compact&theme=tokyonight
 
 ---
 
