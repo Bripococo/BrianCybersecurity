@@ -66,15 +66,6 @@ Soy un profesional de ciberseguridad apasionado por la seguridad ofensiva y defe
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,powerslinux,azure,docker,git,github,vscode
 </p>
-``
-
----
-
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.sername=Bripococo&show_icons=true&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-Bripococo&layout=compact&theme=tokyonight
 
 ---
 
