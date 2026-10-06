@@ -1,24 +1,93 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Security Engineer</a>, <a href="https://www.linkedin.com/in/brianpoolcortescortes/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@mijjacmjj">YouTuber</a></h1>
+# 👋 Hola, soy Brian Pool Cortés
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### 🔐 Cybersecurity Professional | Security Engineer | Content Creator
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+Soy un profesional de ciberseguridad apasionado por la seguridad ofensiva y defensiva, la detección de amenazas, el análisis de vulnerabilidades y la automatización de procesos de seguridad.
 
+📺 Comparto contenido sobre tecnología y ciberseguridad en YouTube.
 
+---
+
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.linkedin.com/in/brianpoolcortescortes/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColors://www.youtube.com/@mijjacmjj)
+
+---
+
+## 🚀 Áreas de Interés
+
+- 🔴 Ethical Hacking
+- 🛡️ Blue Team Operations
+- 🔍 Threat Hunting
+- ☁️ Cloud Security
+- 📊 SIEM & Log Analysis
+- 🐍 Python Automation
+- ⚡ PowerShell Scripting
+- 🔐 Identity & Access Management
+- 🚨 Incident Response
+
+---
+
+## 💻 Proyectos Destacados
+
+### 🛡️ SOC & Security Operations
+
+- Azure Sentinel / Microsoft Sentinel Labs
+- Threat Detection & Investigation
+- Log Analysis and Correlation
+- Security Monitoring Dashboards
+
+### ⚡ Automatización con PowerShell
+
+- Active Directory User Management
+- Security Auditing Scripts
+- File Integrity Monitoring
+- Windows Event Log Analysis
+
+### 🐍 Python para Ciberseguridad
+
+- Security Automation
+- Threat Intelligence Tools
+- Vulnerability Assessment Scripts
+- Data Analysis for Security Operations
+
+### ☁️ Cloud & Microsoft Security
+
+- Microsoft Defender
+- Microsoft Sentinel
+- Entra ID
+- Azure Security Center
+
+---
+
+## 🧰 Tecnologías y Herramientas
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,azurecode,docker,git
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/apiARIO&show_icons=true&theme=tokyonight
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USact&theme=tokyonight
+
+---
+
+## 🎯 Actualmente
+
+- 📚 Aprendiendo técnicas avanzadas de Threat Hunting.
+- ☁️ Profundizando en Microsoft Security y Cloud Security.
+- 🎥 Creando contenido de ciberseguridad para YouTube.
+- 🔐 Construyendo laboratorios prácticos para SOC y Blue Team.
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos de ciberseguridad, automatización y seguridad en la nube.
 <h2> 🤳 Connect with me :</h2>
 
 [<img align="left" alt="brianpoolcortescortes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
